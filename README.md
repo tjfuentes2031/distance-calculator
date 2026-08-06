@@ -28,4 +28,5 @@ The distance between the two points is: 9.90
 
 ## Author
 Name: Travis Fuentes
+
 Section: 8-Anthurium
