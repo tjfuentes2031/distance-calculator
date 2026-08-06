@@ -17,9 +17,13 @@ This Python program calculates the distance between two points (x1, y1) and (x2,
 
 ## Sample Output
 Enter x1: 3
+
 Enter y1: 5
+
 Enter x2: 10
+
 Enter y2: 12
+
 The distance between the two points is: 9.90
 
 ## Author
